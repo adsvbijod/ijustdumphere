@@ -6,11 +6,11 @@ mads-eu.amazon.com
 mas-sdk.amazon.com
 
 # required for apps to be installed
-mas-ext.amazon.com
+#mas-ext.amazon.com
 
 aax-eu.amazon-adsystem.com
 
-msh.amazon.co.uk
+#msh.amazon.co.uk
 
 # required for app installation / updates
 amazonadsi-a.akamaihd.net
@@ -42,27 +42,27 @@ d2n99fpfeqbnhk.cloudfront.net
 #n4h9utzk4f.execute-api.us-east-1.amazonaws.com
 
 # others (unknown usage)
-ktpx-eu.amazon.com
-dp-rsm-prod.amazon.com
-firetvdeviceprofilemanagementservice-na.amazon.com
-prime.amazon.eu
+#ktpx-eu.amazon.com
+#dp-rsm-prod.amazon.com
+#firetvdeviceprofilemanagementservice-na.amazon.com
+#prime.amazon.eu
 #dp-discovery-na-ext.amazon.com
-frank-comp-na.amazon.com
-ftvr-na.amazon.com
-dcape-na.amazon.com
-dp-gw-na.amazon.com
-unagi-eu.amazon.com
-layla.amazon.com
-todo-ta-g7g.amazon.com
-spectrum.s3.amazonaws.com
-arcus-uswest.amazon.com
-pinpoint.us-east-1.amazonaws.com
-aviary.amazon.de
-digprjsurvey.amazon.eu
+#frank-comp-na.amazon.com
+#ftvr-na.amazon.com
+#dcape-na.amazon.com
+#dp-gw-na.amazon.com
+#unagi-eu.amazon.com
+#layla.amazon.com
+#todo-ta-g7g.amazon.com
+#spectrum.s3.amazonaws.com
+#arcus-uswest.amazon.com
+#pinpoint.us-east-1.amazonaws.com
+#aviary.amazon.de
+#digprjsurvey.amazon.eu
 
 # third party
-config.ioam.de
-de.ioam.de
+# config.ioam.de
+# de.ioam.de
 secure-eu.imrworldwide.com
 logs1409.xiti.com
 tracksrv.zdf.de
